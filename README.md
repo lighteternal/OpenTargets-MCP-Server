@@ -4,7 +4,7 @@ Unofficial Model Context Protocol server for accessing Open Targets platform dat
 
 [![API](https://img.shields.io/badge/Open%20Targets-v25.0.1-blue)](https://platform.opentargets.org/) 
 
-_Developed by [Augmented Nature](https://augmentednature.ai) _
+Developed by [Augmented Nature](https://augmentednature.ai) 
 
 ## ✅ **Verified Features**
 
@@ -241,7 +241,7 @@ MIT License - See [LICENSE](./LICENSE) for details.
 
 **Copyright (c) 2025 Augmented Nature - [augmentednature.ai](https://augmentednature.ai)**
 
-## 🆘 **Support**
+## **Support**
 
 For issues with:
 
@@ -249,10 +249,3 @@ For issues with:
 - **Open Targets API**: Visit [platform.opentargets.org](https://platform.opentargets.org/)
 - **GraphQL Queries**: Use the [Open Targets GraphQL browser](https://api.platform.opentargets.org/api/v4/graphql/browser)
 
-For enterprise support and custom integrations, contact [Augmented Nature](https://augmentednature.ai).
-
----
-
-**🎯 Ready for production gene-drug-disease association research!**
-
-_Developed by [Augmented Nature](https://augmentednature.ai) - Advancing AI for Scientific Discovery_
