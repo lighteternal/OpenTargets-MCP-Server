@@ -1,10 +1,10 @@
-# Open Targets MCP Server 🧬
+# Unofficial Open Targets MCP Server 🧬
 
-**Production-Ready** Model Context Protocol server for accessing Open Targets platform data for gene-drug-disease associations research.
+Unofficial Model Context Protocol server for accessing Open Targets platform data for gene-drug-disease associations research.
 
-[![API](https://img.shields.io/badge/Open%20Targets-v25.0.1-blue)](https://platform.opentargets.org/) [![MCP](https://img.shields.io/badge/MCP-compatible-purple)](https://modelcontextprotocol.io/)
+[![API](https://img.shields.io/badge/Open%20Targets-v25.0.1-blue)](https://platform.opentargets.org/) 
 
-_Developed by [Augmented Nature](https://augmentednature.ai) - Advancing AI for Scientific Discovery_
+_Developed by [Augmented Nature](https://augmentednature.ai) _
 
 ## ✅ **Verified Features**
 
@@ -43,7 +43,7 @@ node build/index.js
 }
 ```
 
-### Cline/Other MCP Clients
+### Other MCP Clients
 
 ```bash
 node /path/to/opentargets-server/build/index.js
