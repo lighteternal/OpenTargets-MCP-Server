@@ -237,12 +237,6 @@ This server is developed and maintained by [Augmented Nature](https://augmentedn
 2. Make your changes
 3. Submit a pull request
 
-## 📄 **License**
-
-MIT License - See [LICENSE](./LICENSE) for details.
-
-**Copyright (c) 2025 Augmented Nature - [augmentednature.ai](https://augmentednature.ai)**
-
 ## **Support**
 
 For issues with:
