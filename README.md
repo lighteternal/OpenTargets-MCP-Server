@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # Unofficial Open Targets MCP Server 🧬
 
 Unofficial Model Context Protocol server for accessing Open Targets platform data for gene-drug-disease associations research.
